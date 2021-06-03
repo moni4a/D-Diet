@@ -1,0 +1,3 @@
+[submodule "D-Diet-Client"]
+	path = D-Diet-Client
+	url = https://github.com/moni4a/D-Diet-Client.git

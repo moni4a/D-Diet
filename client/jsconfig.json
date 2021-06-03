@@ -1,0 +1,4 @@
+// nurodo vs, kad cia yra javascript projektas
+{
+    "exlude": ["node_modules"]
+}
